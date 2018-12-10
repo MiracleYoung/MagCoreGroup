@@ -11,6 +11,7 @@ MagCore游戏的反馈、意见、版本更新、游戏说明
 ├── docs
 │   ├── ISSUE.md # 所有的建议
 │   ├── PROCESS.md # 进度报告
+│   ├── STRATEGY.md # 策略
 │   └── TODO.md
 └── resource # 相关资源
 ```
