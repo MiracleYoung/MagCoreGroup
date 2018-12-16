@@ -16,6 +16,10 @@ MagCore游戏的反馈、意见、版本更新、游戏说明
 └── resource # 相关资源
 ```
 
+## Web Monitor
+
+[http://magcore.clawit.com/pages/monitor.html?svr=test&gid=65ba21c63f2d405fb8aac72bb415f5d0](http://magcore.clawit.com/pages/monitor.html?svr=test&gid=65ba21c63f2d405fb8aac72bb415f5d0)
+
 ## 贡献者
 
 | ID | 昵称 | 邮箱 | 加入时间 |
